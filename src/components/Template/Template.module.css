@@ -1,0 +1,77 @@
+.bordered {
+  border: 1px dashed black;
+}
+
+.accent {
+  background-color: lightblue;
+}
+
+.selected {
+  background-color: blue;
+  color: white;
+}
+
+.Addcertificates {
+  margin: 15px;
+  padding: 10px;
+  margin: 5px;
+  width: 90%;
+}
+
+.certification {
+  font-size: 40px;
+  font-weight: bold;
+  color: #464647;
+}
+
+.certify {
+  font-size: 25px;
+}
+
+.name {
+  font-size: 30px;
+  color: green;
+}
+
+.fs30 {
+  font-size: 20px;
+}
+
+.fs-20 {
+  font-size: 20px;
+}
+
+/* template style */
+.inner-dotted-border {
+  width: 750px;
+  height: 600px;
+  padding: 20px;
+  text-align: center;
+  border: 5px solid #673ab7;
+  border-style: dotted;
+}
+
+.templateWrapper {
+  text-align: center;
+  margin-left: 21%;
+  width: 800px;
+  height: 650px;
+  position: relative;
+}
+
+.templateBackground {
+  width: 800px;
+  height: 650px;
+  position: relative;
+}
+.templateContent {
+  width: 800px;
+  height: 650px;
+  position: absolute;
+  top: 35px;
+  left: 0px;
+}
+.sign {
+  height: 75px;
+  width: 75px;
+}
